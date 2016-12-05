@@ -1,0 +1,10 @@
+# Site settings
+title: STEMS - LIACC
+tag_text: STEMS Technology Hub
+description: Special interest group within DAIAS (Distributed AI and Agent-based Simulation) at LIACC (AI and Computer Science Lab) of U. Porto
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
