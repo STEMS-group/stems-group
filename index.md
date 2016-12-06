@@ -25,6 +25,10 @@ Here are presented the currently used technologies in the laboratory in order to
 
 ## Requirements
 
+### Accounts
+
+You will need a [Google](https://accounts.google.com/SignUp) and a [GitHub](https://github.com/join) account
+
 ### Method 1
 
 * GitHub - For using GitHub you need to create a [new account](https://github.com/join). Then to be added to the STEMS Organization you need to email one of the administrators with your username.
